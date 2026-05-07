@@ -2,7 +2,8 @@
 <body>
 <h2>Student details</h2>
 <a>Here is student information !!</a>
-<a>Here is the roll no</a>
-<a>Here is some names</a>
+<a>Name : Your Name</a>
+<a>Age: your age</a>
+<a>School : your school</a>
 </body>
 </html>
